@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IV Application</string>
+    <string name="start">Drug List</string>
+    <string name="review">Selected Drugs</string>
+    <string name="incomp_res">Incompatibility Check Results</string>
+    <string name="back_button">Back</string>
+    <string name="ir_calc">IR Calculator</string>
+    <string name="ir_vol">Volume (ml)</string>
+    <string name="ir_time">Time (min)</string>
+    <string name="ir_drop_factor">Drop Factor (drops/ml)</string>
+    <string name="ir_result">Infusion Rate = %s drops/min</string>
+</resources>
